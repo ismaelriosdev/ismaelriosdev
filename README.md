@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ismaelriosdev
-- 👀 I’m interested in coding
+- 👀 I’m a new mobile developer
 - 🌱 I’m currently learning python,and kotlin.
 - 💞️ I’m looking to collaborate on projets for money.
